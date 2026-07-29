@@ -81,16 +81,13 @@ const julio = {
 
 ## Proyectos destacados
 
-<!--
-  Las imágenes viven en /assets/projects de ESTE mismo repo.
-  Sube la carpeta assets junto con el README para que las cards se vean.
--->
+<!-- Imágenes desde Portafolio-RN-React (raw.githubusercontent) — no hace falta carpeta assets aquí -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">
-        <img src="./assets/projects/kgh.jpg" alt="Kinal Gourmet House" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kgh-00.jpg" alt="Kinal Gourmet House" width="100%" />
       </a>
       <br />
       <h3 align="center">Kinal Gourmet House</h3>
@@ -102,7 +99,7 @@ const julio = {
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">
-        <img src="./assets/projects/kp.jpg" alt="Kinal Pets" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kp-00.jpg" alt="Kinal Pets" width="100%" />
       </a>
       <br />
       <h3 align="center">Kinal Pets</h3>
@@ -115,7 +112,7 @@ const julio = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/aalvarez-2024004/AppMovil-SistemaBancario">
-        <img src="./assets/projects/kb.jpg" alt="Kinal Bank" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kb-00.jpg" alt="Kinal Bank" width="100%" />
       </a>
       <br />
       <h3 align="center">Kinal Bank</h3>
@@ -127,7 +124,7 @@ const julio = {
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/aalvarez-2024004/EcoApp">
-        <img src="./assets/projects/ek.jpg" alt="Eco Kinal" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ek-00.jpg" alt="Eco Kinal" width="100%" />
       </a>
       <br />
       <h3 align="center">Eco Kinal</h3>
@@ -141,7 +138,7 @@ const julio = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">
-        <img src="./assets/projects/pr.jpg" alt="PokéReto" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/pr-00.jpg" alt="PokéReto" width="100%" />
       </a>
       <br />
       <h3 align="center">PokéReto</h3>
@@ -153,7 +150,7 @@ const julio = {
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jrealiquez-2021549/Web-Page">
-        <img src="./assets/projects/wp.jpg" alt="Web Page" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/wp-00.jpg" alt="Web Page" width="100%" />
       </a>
       <br />
       <h3 align="center">Web Page</h3>
@@ -167,7 +164,7 @@ const julio = {
   <tr>
     <td width="50%" valign="top" colspan="2" align="center">
       <a href="https://github.com/jrealiquez-2021549/Rompecabezas">
-        <img src="./assets/projects/ag.jpg" alt="Autumn Grid" width="50%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ag-00.jpg" alt="Autumn Grid" width="50%" />
       </a>
       <br />
       <h3 align="center">Autumn Grid</h3>
