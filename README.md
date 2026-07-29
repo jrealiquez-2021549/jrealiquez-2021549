@@ -1,104 +1,173 @@
 <!--
-  GitHub Profile README — Julio Gabriel Realiquez Noriega
-  Repo: debe llamarse exactamente igual que tu usuario → jrealiquez-2021549/jrealiquez-2021549
-  Sustituye PORTFOLIO_URL cuando tengas el portafolio en producción.
+  GitHub Profile README v2 — Julio Gabriel Realiquez Noriega
+  Repo: jrealiquez-2021549/jrealiquez-2021549 (público)
+
+  Inspirado en patrones de:
+  - abhisheknaiidu/awesome-github-profile-readme (Code Mode)
+  - beydemirfurkan/awesome-github-profile (Monospace / Editorial)
+  - github-readme-stats · readme-typing-svg · capsule-render
 -->
 
 <div align="center">
 
-# Julio Gabriel Realiquez Noriega
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=180&section=header&text=Julio%20Realiquez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Guatemala&descAlignY=55&descSize=16" alt="header" />
 
-**Full-Stack Developer** · Guatemala 🇬🇹  
-Construyo aplicaciones web, móviles y de escritorio con enfoque en producto, UX y arquitectura limpia.
-
-[![Email](https://img.shields.io/badge/Email-realiqueznoriega80%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realiqueznoriega80@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jrealiquez--2021549-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrealiquez-2021549)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50231100319)
-
-<!-- Cuando publiques tu portafolio, descomenta y pon la URL real:
-[🌐 Portafolio](https://TU-PORTAFOLIO.vercel.app)
--->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;React+%7C+React+Native+%7C+Node.js;Java+%7C+JavaFX+%7C+APIs+REST;Construyendo+productos+reales" alt="Typing SVG" />
+  </a>
 
 </div>
 
 ---
 
-### Sobre mí
+## Hola, soy Julio 👋
 
-Soy desarrollador full-stack en formación (3 años construyendo software) y próximo estudiante de **Ingeniería en Sistemas**. Me especializo en soluciones end-to-end: desde APIs REST con autenticación y roles, hasta interfaces en React / React Native y apps de escritorio en JavaFX.
+Desarrollador **Full-Stack** de Guatemala con **3 años** construyendo software web, móvil y de escritorio. Próximo estudiante de **Ingeniería en Sistemas**, enfocado en soluciones escalables y buena experiencia de usuario.
 
-Mi objetivo es aportar en equipos que construyen productos reales — y crecer hacia arquitectura de software capaz de resolver problemas complejos.
-
-> *“Tener miedo no es malo; es el miedo lo que me ha llevado tan lejos.”*
-
----
-
-### Stack principal
-
-| Área | Tecnologías |
-|------|-------------|
-| **Frontend** | React · Vite · Tailwind CSS · Framer Motion / GSAP |
-| **Móvil** | React Native · Expo · React Navigation · Zustand |
-| **Backend** | Node.js · Express · JWT · REST APIs |
-| **Datos** | MongoDB · MySQL · PostgreSQL |
-| **Desktop** | Java · JavaFX · JDBC · MVC |
-| **Extras** | Docker · Cloudinary · Gemini / Google Cloud Vision |
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,postgres,java,vite,tailwind,git,docker" alt="Tech stack" />
-</p>
-
----
-
-### Proyectos destacados
-
-#### Sistemas full-stack (académicos / equipo)
-
-| Proyecto | Qué resuelve | Stack | Links |
-|----------|--------------|-------|-------|
-| **Kinal Gourmet House** | Gestión de restaurantes: menú, pedidos, inventario y usuarios (web + móvil) | Node.js · Express · React · React Native · PostgreSQL · MongoDB | [Repo](https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante) · [Demo](https://kinal-gourmet-web.vercel.app/) |
-| **Kinal Bank** | Banca digital: cuentas, transferencias, JWT y control de roles (web + móvil) | Node.js · Express · React · React Native · MongoDB · PostgreSQL | [Repo](https://github.com/aalvarez-2024004/AppMovil-SistemaBancario) · [Demo](https://app-movil-sistema-bancario-hfca.vercel.app/) |
-| **Eco Kinal** | Reciclaje y educación ambiental con IA, gamificación y mapa de centros | React · React Native · Node.js · Gemini / Vision API | [Repo](https://github.com/aalvarez-2024004/EcoApp) · [Demo](https://app-movil-eco-kinal.vercel.app/) |
-| **Kinal Pets** | App de escritorio para clínicas veterinarias (pacientes, inventario, facturación) | Java · JavaFX · MySQL · JDBC · MVC | [Repo](https://github.com/jrealiquez-2021549/Kinal-Pets) |
-
-#### Proyectos personales
-
-| Proyecto | Descripción | Links |
-|----------|-------------|-------|
-| **PokéReto** | Ahorcado temático Pokémon — full stack con API REST | [Repo](https://github.com/jrealiquez-2021549/Ahorcado-Pokemon) · [Demo](https://ahorcado-pokemon-jgrn.vercel.app/) |
-| **Web Page** | Landing interactiva de videojuegos con multimedia y animaciones | [Repo](https://github.com/jrealiquez-2021549/Web-Page) · [Demo](https://web-page-mu-orcin.vercel.app/) |
-| **Autumn Grid** | Rompecabezas web con audio, animaciones y diseño responsive | [Repo](https://github.com/jrealiquez-2021549/Rompecabezas) · [Demo](https://rompecabezas-sable.vercel.app/) |
+```js
+const julio = {
+  name: "Julio Gabriel Realiquez Noriega",
+  role: "Full-Stack Developer",
+  location: "Guatemala 🇬🇹",
+  experience: "3 years building software",
+  education: "6to Diversificado → Ingeniería en Sistemas",
+  focus: ["Web Apps", "Mobile Apps", "Desktop Apps", "REST APIs"],
+  stack: {
+    frontend: ["React", "Vite", "Tailwind", "GSAP"],
+    mobile: ["React Native", "Expo"],
+    backend: ["Node.js", "Express", "JWT"],
+    desktop: ["Java", "JavaFX", "MySQL"],
+    data: ["MongoDB", "PostgreSQL", "MySQL"],
+  },
+  currentlyLearning: ["Arquitectura de software", "TypeScript", "Docker"],
+  openTo: ["Prácticas", "Colaboraciones", "Proyectos reales"],
+  askMeAbout: ["APIs REST", "Auth JWT", "UI/UX en React"],
+};
+```
 
 ---
 
-### En qué estoy enfocado ahora
+## Tech Stack
 
-- Consolidar arquitectura full-stack (API + web + móvil) en proyectos reales  
-- Mejorar calidad de código, seguridad (JWT, hashing, rate limit) y experiencia de usuario  
-- Prepararme para Ingeniería en Sistemas con base sólida en producto y desarrollo  
+### Lenguajes
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Desktop & Tools
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C00?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### GitHub stats
+## Proyectos destacados
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2021549&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+  <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=AppMovil-SistemaRestaurante&theme=tokyonight&hide_border=true" alt="Kinal Gourmet House" />
+  </a>
+  <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=Kinal-Pets&theme=tokyonight&hide_border=true" alt="Kinal Pets" />
+  </a>
+
+  <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=Ahorcado-Pokemon&theme=tokyonight&hide_border=true" alt="PokéReto" />
+  </a>
+  <a href="https://github.com/jrealiquez-2021549/Web-Page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=Web-Page&theme=tokyonight&hide_border=true" alt="Web Page" />
+  </a>
+
+</div>
+
+<details>
+<summary><strong>Ver más proyectos y demos en vivo</strong></summary>
+
+<br/>
+
+| Proyecto | Qué hace | Demo |
+|----------|----------|------|
+| **Kinal Gourmet House** | Gestión de restaurantes (web + móvil) | [Live](https://kinal-gourmet-web.vercel.app/) |
+| **Kinal Bank** | Banca digital con JWT y roles | [Live](https://app-movil-sistema-bancario-hfca.vercel.app/) |
+| **Eco Kinal** | Reciclaje + IA + gamificación | [Live](https://app-movil-eco-kinal.vercel.app/) |
+| **Kinal Pets** | Clínica veterinaria (desktop JavaFX) | — |
+| **PokéReto** | Ahorcado Pokémon full stack | [Live](https://ahorcado-pokemon-jgrn.vercel.app/) |
+| **Autumn Grid** | Rompecabezas web interactivo | [Live](https://rompecabezas-sable.vercel.app/) |
+
+</details>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2021549&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jrealiquez-2021549&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jrealiquez-2021549&bg_color=0d1117&color=58a6ff&line=238636&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
-### Contacto
+## Enfoque actual
 
-¿Tienes un proyecto, una oportunidad o quieres colaborar?
+```bash
+$ whoami
+julio — full-stack.dev
 
-- **Email:** [realiqueznoriega80@gmail.com](mailto:realiqueznoriega80@gmail.com)  
-- **WhatsApp:** [+502 3110 0319](https://wa.me/50231100319)  
-- **Instagram:** [@realiquez_ac](https://instagram.com/realiquez_ac/)  
-- **GitHub:** [jrealiquez-2021549](https://github.com/jrealiquez-2021549)
+$ cat now.txt
+→ Consolidando arquitectura API + Web + Mobile
+→ Mejorando seguridad (JWT, hashing, rate limit) y UX
+→ Preparándome para Ingeniería en Sistemas
+
+$ open-to --roles
+prácticas · colaboraciones · proyectos reales
+```
+
+---
+
+## Contacto
 
 <div align="center">
 
-**Abierto a oportunidades de aprendizaje, prácticas y proyectos colaborativos.**
+  [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realiqueznoriega80@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/50231100319)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jrealiquez-2021549)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/realiquez_ac/)
+
+  <br/>
+
+  **Abierto a oportunidades, prácticas y proyectos colaborativos.**
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=100&section=footer" alt="footer" />
 
 </div>
