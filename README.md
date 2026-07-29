@@ -81,50 +81,19 @@ const julio = {
 
 ## Proyectos destacados
 
-<div align="center">
-
-  <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=AppMovil-SistemaRestaurante&theme=tokyonight&hide_border=true" alt="Kinal Gourmet House" />
-  </a>
-  <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=Kinal-Pets&theme=tokyonight&hide_border=true" alt="Kinal Pets" />
-  </a>
-
-  <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=Ahorcado-Pokemon&theme=tokyonight&hide_border=true" alt="PokéReto" />
-  </a>
-  <a href="https://github.com/jrealiquez-2021549/Web-Page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jrealiquez-2021549&repo=Web-Page&theme=tokyonight&hide_border=true" alt="Web Page" />
-  </a>
-
-</div>
-
-<details>
-<summary><strong>Ver más proyectos y demos en vivo</strong></summary>
-
-<br/>
-
-| Proyecto | Qué hace | Demo |
-|----------|----------|------|
-| **Kinal Gourmet House** | Gestión de restaurantes (web + móvil) | [Live](https://kinal-gourmet-web.vercel.app/) |
-| **Kinal Bank** | Banca digital con JWT y roles | [Live](https://app-movil-sistema-bancario-hfca.vercel.app/) |
-| **Eco Kinal** | Reciclaje + IA + gamificación | [Live](https://app-movil-eco-kinal.vercel.app/) |
-| **Kinal Pets** | Clínica veterinaria (desktop JavaFX) | — |
-| **PokéReto** | Ahorcado Pokémon full stack | [Live](https://ahorcado-pokemon-jgrn.vercel.app/) |
-| **Autumn Grid** | Rompecabezas web interactivo | [Live](https://rompecabezas-sable.vercel.app/) |
-
-</details>
+| Proyecto | Descripción | Repo | Demo |
+|----------|-------------|------|------|
+| **Kinal Gourmet House** | Gestión de restaurantes (web + móvil) | [Código](https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante) | [Live](https://kinal-gourmet-web.vercel.app/) |
+| **Kinal Pets** | Clínica veterinaria (desktop JavaFX) | [Código](https://github.com/jrealiquez-2021549/Kinal-Pets) | — |
+| **Kinal Bank** | Banca digital con JWT y roles | [Código](https://github.com/aalvarez-2024004/AppMovil-SistemaBancario) | [Live](https://app-movil-sistema-bancario-hfca.vercel.app/) |
+| **Eco Kinal** | Reciclaje + IA + gamificación | [Código](https://github.com/aalvarez-2024004/EcoApp) | [Live](https://app-movil-eco-kinal.vercel.app/) |
+| **PokéReto** | Ahorcado Pokémon full stack | [Código](https://github.com/jrealiquez-2021549/Ahorcado-Pokemon) | [Live](https://ahorcado-pokemon-jgrn.vercel.app/) |
+| **Web Page** | Landing interactiva de videojuegos | [Código](https://github.com/jrealiquez-2021549/Web-Page) | [Live](https://web-page-mu-orcin.vercel.app/) |
+| **Autumn Grid** | Rompecabezas web interactivo | [Código](https://github.com/jrealiquez-2021549/Rompecabezas) | [Live](https://rompecabezas-sable.vercel.app/) |
 
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2021549&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jrealiquez-2021549&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
