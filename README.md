@@ -81,15 +81,104 @@ const julio = {
 
 ## Proyectos destacados
 
-| Proyecto | Descripción | Repo | Demo |
-|----------|-------------|------|------|
-| **Kinal Gourmet House** | Gestión de restaurantes (web + móvil) | [Código](https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante) | [Live](https://kinal-gourmet-web.vercel.app/) |
-| **Kinal Pets** | Clínica veterinaria (desktop JavaFX) | [Código](https://github.com/jrealiquez-2021549/Kinal-Pets) | — |
-| **Kinal Bank** | Banca digital con JWT y roles | [Código](https://github.com/aalvarez-2024004/AppMovil-SistemaBancario) | [Live](https://app-movil-sistema-bancario-hfca.vercel.app/) |
-| **Eco Kinal** | Reciclaje + IA + gamificación | [Código](https://github.com/aalvarez-2024004/EcoApp) | [Live](https://app-movil-eco-kinal.vercel.app/) |
-| **PokéReto** | Ahorcado Pokémon full stack | [Código](https://github.com/jrealiquez-2021549/Ahorcado-Pokemon) | [Live](https://ahorcado-pokemon-jgrn.vercel.app/) |
-| **Web Page** | Landing interactiva de videojuegos | [Código](https://github.com/jrealiquez-2021549/Web-Page) | [Live](https://web-page-mu-orcin.vercel.app/) |
-| **Autumn Grid** | Rompecabezas web interactivo | [Código](https://github.com/jrealiquez-2021549/Rompecabezas) | [Live](https://rompecabezas-sable.vercel.app/) |
+<!--
+  Las imágenes viven en /assets/projects de ESTE mismo repo.
+  Sube la carpeta assets junto con el README para que las cards se vean.
+-->
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">
+        <img src="./assets/projects/kgh.jpg" alt="Kinal Gourmet House" width="100%" />
+      </a>
+      <br />
+      <h3 align="center">Kinal Gourmet House</h3>
+      <p align="center">Gestión de restaurantes · Web + Móvil<br/>Node.js · React · React Native · PostgreSQL</p>
+      <p align="center">
+        <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">Repo</a> ·
+        <a href="https://kinal-gourmet-web.vercel.app/">Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">
+        <img src="./assets/projects/kp.jpg" alt="Kinal Pets" width="100%" />
+      </a>
+      <br />
+      <h3 align="center">Kinal Pets</h3>
+      <p align="center">Clínica veterinaria · App de escritorio<br/>Java · JavaFX · MySQL · MVC</p>
+      <p align="center">
+        <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aalvarez-2024004/AppMovil-SistemaBancario">
+        <img src="./assets/projects/kb.jpg" alt="Kinal Bank" width="100%" />
+      </a>
+      <br />
+      <h3 align="center">Kinal Bank</h3>
+      <p align="center">Banca digital · JWT + roles<br/>Node.js · React · React Native · MongoDB</p>
+      <p align="center">
+        <a href="https://github.com/aalvarez-2024004/AppMovil-SistemaBancario">Repo</a> ·
+        <a href="https://app-movil-sistema-bancario-hfca.vercel.app/">Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aalvarez-2024004/EcoApp">
+        <img src="./assets/projects/ek.jpg" alt="Eco Kinal" width="100%" />
+      </a>
+      <br />
+      <h3 align="center">Eco Kinal</h3>
+      <p align="center">Reciclaje + IA + gamificación<br/>React · React Native · Gemini / Vision API</p>
+      <p align="center">
+        <a href="https://github.com/aalvarez-2024004/EcoApp">Repo</a> ·
+        <a href="https://app-movil-eco-kinal.vercel.app/">Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">
+        <img src="./assets/projects/pr.jpg" alt="PokéReto" width="100%" />
+      </a>
+      <br />
+      <h3 align="center">PokéReto</h3>
+      <p align="center">Ahorcado Pokémon · Full Stack<br/>React · Node.js · Express · MongoDB</p>
+      <p align="center">
+        <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">Repo</a> ·
+        <a href="https://ahorcado-pokemon-jgrn.vercel.app/">Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jrealiquez-2021549/Web-Page">
+        <img src="./assets/projects/wp.jpg" alt="Web Page" width="100%" />
+      </a>
+      <br />
+      <h3 align="center">Web Page</h3>
+      <p align="center">Landing interactiva de videojuegos<br/>HTML · CSS · JavaScript</p>
+      <p align="center">
+        <a href="https://github.com/jrealiquez-2021549/Web-Page">Repo</a> ·
+        <a href="https://web-page-mu-orcin.vercel.app/">Demo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2" align="center">
+      <a href="https://github.com/jrealiquez-2021549/Rompecabezas">
+        <img src="./assets/projects/ag.jpg" alt="Autumn Grid" width="50%" />
+      </a>
+      <br />
+      <h3 align="center">Autumn Grid</h3>
+      <p align="center">Rompecabezas web interactivo · HTML · CSS · JavaScript</p>
+      <p align="center">
+        <a href="https://github.com/jrealiquez-2021549/Rompecabezas">Repo</a> ·
+        <a href="https://rompecabezas-sable.vercel.app/">Demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
