@@ -73,15 +73,17 @@ Portafolio personal en React + Vite con sistema de partículas animadas, reprodu
 `React` `Vite` `GSAP`
 
 </td>
+
 <td width="50%">
 
 **♻️ [EcoKinal](https://github.com/aalvarez-2024004/AppMovil-EcoKinal.git)**
 <br/>
 App móvil de reciclaje con detección de imágenes (Google Vision + Gemini), mapas y gamificación. Proyecto grupal con despliegue completo en Render/Vercel.
 <br/>
-`React Native` `Express` `MongoDB`
+`React` `Vite` `GSAP`
 
 </td>
+
 </tr>
 <tr>
 <td width="50%">
