@@ -81,101 +81,126 @@ const julio = {
 
 ## Proyectos destacados
 
-<!-- Imágenes desde Portafolio-RN-React (raw.githubusercontent) — no hace falta carpeta assets aquí -->
+<!-- UI real del producto + badges (GitHub no permite CSS custom) -->
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kgh-00.jpg" alt="Kinal Gourmet House" width="100%" />
+      <a href="https://kinal-gourmet-web.vercel.app/">
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kgh-01.jpg" alt="Kinal Gourmet House" width="100%" />
       </a>
-      <br />
-      <h3 align="center">Kinal Gourmet House</h3>
-      <p align="center">Gestión de restaurantes · Web + Móvil<br/>Node.js · React · React Native · PostgreSQL</p>
-      <p align="center">
-        <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante">Repo</a> ·
-        <a href="https://kinal-gourmet-web.vercel.app/">Demo</a>
-      </p>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Web%20%2B%20Móvil-FF6B00?style=flat-square" alt="Web + Móvil" />
+      <img src="https://img.shields.io/badge/Full%20Stack-1F6FEB?style=flat-square" alt="Full Stack" />
+      <h3>🍽️ Kinal Gourmet House</h3>
+      Gestión de restaurantes: menú, pedidos, inventario y usuarios.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <br/><br/>
+      <a href="https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://kinal-gourmet-web.vercel.app/"><img src="https://img.shields.io/badge/Demo_Live-FF6B00?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kp-00.jpg" alt="Kinal Pets" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kp-01.jpg" alt="Kinal Pets" width="100%" />
       </a>
-      <br />
-      <h3 align="center">Kinal Pets</h3>
-      <p align="center">Clínica veterinaria · App de escritorio<br/>Java · JavaFX · MySQL · MVC</p>
-      <p align="center">
-        <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">Repo</a>
-      </p>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Desktop-007396?style=flat-square" alt="Desktop" />
+      <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat-square" alt="JavaFX" />
+      <h3>🐾 Kinal Pets</h3>
+      App de escritorio para clínicas veterinarias: pacientes, inventario y facturación.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JavaFX" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MVC-6E7681?style=flat-square" alt="MVC" />
+      <br/><br/>
+      <a href="https://github.com/jrealiquez-2021549/Kinal-Pets"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/aalvarez-2024004/AppMovil-SistemaBancario">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kb-00.jpg" alt="Kinal Bank" width="100%" />
+      <a href="https://app-movil-sistema-bancario-hfca.vercel.app/">
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kb-01.jpg" alt="Kinal Bank" width="100%" />
       </a>
-      <br />
-      <h3 align="center">Kinal Bank</h3>
-      <p align="center">Banca digital · JWT + roles<br/>Node.js · React · React Native · MongoDB</p>
-      <p align="center">
-        <a href="https://github.com/aalvarez-2024004/AppMovil-SistemaBancario">Repo</a> ·
-        <a href="https://app-movil-sistema-bancario-hfca.vercel.app/">Demo</a>
-      </p>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Fintech-0D1117?style=flat-square" alt="Fintech" />
+      <img src="https://img.shields.io/badge/JWT%20%2B%20Roles-238636?style=flat-square" alt="JWT" />
+      <h3>🏦 Kinal Bank</h3>
+      Banca digital web y móvil: cuentas, transferencias y autenticación segura.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <br/><br/>
+      <a href="https://github.com/aalvarez-2024004/AppMovil-SistemaBancario"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://app-movil-sistema-bancario-hfca.vercel.app/"><img src="https://img.shields.io/badge/Demo_Live-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/aalvarez-2024004/EcoApp">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ek-00.jpg" alt="Eco Kinal" width="100%" />
+      <a href="https://app-movil-eco-kinal.vercel.app/">
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ek-01.jpg" alt="Eco Kinal" width="100%" />
       </a>
-      <br />
-      <h3 align="center">Eco Kinal</h3>
-      <p align="center">Reciclaje + IA + gamificación<br/>React · React Native · Gemini / Vision API</p>
-      <p align="center">
-        <a href="https://github.com/aalvarez-2024004/EcoApp">Repo</a> ·
-        <a href="https://app-movil-eco-kinal.vercel.app/">Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/pr-00.jpg" alt="PokéReto" width="100%" />
-      </a>
-      <br />
-      <h3 align="center">PokéReto</h3>
-      <p align="center">Ahorcado Pokémon · Full Stack<br/>React · Node.js · Express · MongoDB</p>
-      <p align="center">
-        <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon">Repo</a> ·
-        <a href="https://ahorcado-pokemon-jgrn.vercel.app/">Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jrealiquez-2021549/Web-Page">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/wp-00.jpg" alt="Web Page" width="100%" />
-      </a>
-      <br />
-      <h3 align="center">Web Page</h3>
-      <p align="center">Landing interactiva de videojuegos<br/>HTML · CSS · JavaScript</p>
-      <p align="center">
-        <a href="https://github.com/jrealiquez-2021549/Web-Page">Repo</a> ·
-        <a href="https://web-page-mu-orcin.vercel.app/">Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2" align="center">
-      <a href="https://github.com/jrealiquez-2021549/Rompecabezas">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ag-00.jpg" alt="Autumn Grid" width="50%" />
-      </a>
-      <br />
-      <h3 align="center">Autumn Grid</h3>
-      <p align="center">Rompecabezas web interactivo · HTML · CSS · JavaScript</p>
-      <p align="center">
-        <a href="https://github.com/jrealiquez-2021549/Rompecabezas">Repo</a> ·
-        <a href="https://rompecabezas-sable.vercel.app/">Demo</a>
-      </p>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Impacto-2EA043?style=flat-square" alt="Impacto" />
+      <img src="https://img.shields.io/badge/IA-A371F7?style=flat-square" alt="IA" />
+      <h3>🌱 Eco Kinal</h3>
+      Reciclaje y educación ambiental con IA, gamificación y mapa de centros.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+      <img src="https://img.shields.io/badge/Vision_API-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vision API" />
+      <br/><br/>
+      <a href="https://github.com/aalvarez-2024004/EcoApp"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://app-movil-eco-kinal.vercel.app/"><img src="https://img.shields.io/badge/Demo_Live-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><strong>Más proyectos personales</strong></summary>
+<br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://ahorcado-pokemon-jgrn.vercel.app/">
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/pr-01.jpg" alt="PokéReto" width="100%" />
+      </a>
+      <h3>⚡ PokéReto</h3>
+      Ahorcado Pokémon · Full Stack
+      <br/><br/>
+      <a href="https://github.com/jrealiquez-2021549/Ahorcado-Pokemon"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://ahorcado-pokemon-jgrn.vercel.app/"><img src="https://img.shields.io/badge/Demo-EF5350?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://web-page-mu-orcin.vercel.app/">
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/wp-01.jpg" alt="Web Page" width="100%" />
+      </a>
+      <h3>🎮 Web Page</h3>
+      Landing interactiva de videojuegos
+      <br/><br/>
+      <a href="https://github.com/jrealiquez-2021549/Web-Page"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://web-page-mu-orcin.vercel.app/"><img src="https://img.shields.io/badge/Demo-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://rompecabezas-sable.vercel.app/">
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ag-01.jpg" alt="Autumn Grid" width="100%" />
+      </a>
+      <h3>🧩 Autumn Grid</h3>
+      Rompecabezas web interactivo
+      <br/><br/>
+      <a href="https://github.com/jrealiquez-2021549/Rompecabezas"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+      <a href="https://rompecabezas-sable.vercel.app/"><img src="https://img.shields.io/badge/Demo-E65100?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo" /></a>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
