@@ -1,141 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Hi,%20I'm%20Proxy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Student&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1712,50:13211B,100:182922&height=200&section=header&text=Julio%20Realiquez&fontSize=42&fontColor=D1BB7C&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Futuro%20Ingeniero%20en%20Sistemas&descAlignY=55&descSize=16&descColor=F5F1E6" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+from+scratch;React+%2B+React+Native+%2B+Node+%2B+Spring+Boot;Turning+group+projects+into+real+deployments;Design-obsessed+%E2%80%94+details+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=D1BB7C&center=true&vCenter=true&width=650&lines=%22Tener+miedo+no+es+malo%2C+es+el+miedo+lo+que+me+ha+llevado+tan+lejos%22;React+%2B+React+Native+%2B+Node+%2B+Java+%2F+JavaFX;De+proyectos+de+equipo+a+despliegues+reales;Detalle+visual+y+precisi%C3%B3n+t%C3%A9cnica+en+cada+proyecto" alt="Typing SVG" />
 </a>
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:182922,100:0E1712&height=2&width=100%25" width="100%"/>
 
 ### 👋 Sobre mí
 
-Soy **desarrollador estudiante**, trabajando en proyectos web, móviles y de microservicios — tanto individuales como en equipo. Me gusta llevar los proyectos académicos hasta un despliegue real: configurar entornos, resolver bugs de integración y dejar todo funcionando en producción, no solo en `localhost`.
+Estudiante de 6to. Diversificado, camino a Ingeniería en Sistemas — con **3 años de experiencia** desarrollando software, individual y en equipo. Con base en Guatemala.
 
-Además del backend, le doy mucha importancia al **diseño visual**: animaciones cuidadas, temas coherentes y detalles de pulido en la interfaz — inspirado en parte por estética de anime (ej. *Sousou no Frieren*) en mis proyectos personales.
+Me especializo en desarrollo **full-stack**: desde interfaces de escritorio en JavaFX hasta plataformas web y móviles completas con React, React Native y Node.js. Cuido tanto la arquitectura del backend como el detalle visual de cada interfaz.
 
-- 🔭 Trabajando actualmente en mi portafolio personal (**Portafolio-RN-React**) con animaciones custom
-- 🌱 Consolidando microservicios con **Spring Boot** e integraciones **FHIR**
-- 💻 Desarrollo en **Windows / PowerShell**
+- 🔭 Actualmente trabajando en mi portafolio personal con animaciones custom (partículas, reproductor de música, carruseles)
+- 🌱 Ampliando conocimientos en microservicios con **Spring Boot** e integraciones **FHIR**
+- 🖥️ Desarrollo en **Windows / PowerShell**
 - 🚀 Despliego en **Render**, **Vercel** y **Railway**
+- 📫 Portafolio completo: **[Portafolio-RN-React](https://github.com/jrealiquez-2021549/Portafolio-RN-React)**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:182922,100:0E1712&height=2&width=100%25" width="100%"/>
 
-### 🛠️ Stack
+### 🛠️ Stack técnico
 
-<div align="center">
-
-**Frontend**
+**Lenguajes**
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-D1BB7C?style=for-the-badge&logo=openjdk&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/JavaScript-D1BB7C?style=for-the-badge&logo=javascript&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/SQL-D1BB7C?style=for-the-badge&logo=postgresql&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/HTML5-D1BB7C?style=for-the-badge&logo=html5&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/CSS3-D1BB7C?style=for-the-badge&logo=css3&logoColor=0E1712&labelColor=13211B"/>
+
+**Frontend Web & Móvil**
+<br/>
+<img src="https://img.shields.io/badge/React-D1BB7C?style=for-the-badge&logo=react&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/React_Native-D1BB7C?style=for-the-badge&logo=react&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Vite-D1BB7C?style=for-the-badge&logo=vite&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Expo-D1BB7C?style=for-the-badge&logo=expo&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-D1BB7C?style=for-the-badge&logo=tailwindcss&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/GSAP-D1BB7C?style=for-the-badge&logo=greensock&logoColor=0E1712&labelColor=13211B"/>
+
+**Desktop**
+<br/>
+<img src="https://img.shields.io/badge/JavaFX-D1BB7C?style=for-the-badge&logo=java&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/MVC-D1BB7C?style=for-the-badge&logo=codefactor&logoColor=0E1712&labelColor=13211B"/>
 
 **Backend**
 <br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-D1BB7C?style=for-the-badge&logo=nodedotjs&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Express-D1BB7C?style=for-the-badge&logo=express&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/JWT-D1BB7C?style=for-the-badge&logo=jsonwebtokens&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Swagger-D1BB7C?style=for-the-badge&logo=swagger&logoColor=0E1712&labelColor=13211B"/>
 
 **Bases de datos**
 <br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-D1BB7C?style=for-the-badge&logo=mysql&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/MongoDB-D1BB7C?style=for-the-badge&logo=mongodb&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/PostgreSQL-D1BB7C?style=for-the-badge&logo=postgresql&logoColor=0E1712&labelColor=13211B"/>
 
-**Deploy & Tools**
+**IA & Cloud**
 <br/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-D1BB7C?style=for-the-badge&logo=googlegemini&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Google_Cloud-D1BB7C?style=for-the-badge&logo=googlecloud&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Cloudinary-D1BB7C?style=for-the-badge&logo=cloudinary&logoColor=0E1712&labelColor=13211B"/>
 
-</div>
+**Deploy & Herramientas**
+<br/>
+<img src="https://img.shields.io/badge/Render-D1BB7C?style=for-the-badge&logo=render&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Vercel-D1BB7C?style=for-the-badge&logo=vercel&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Railway-D1BB7C?style=for-the-badge&logo=railway&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Docker-D1BB7C?style=for-the-badge&logo=docker&logoColor=0E1712&labelColor=13211B"/>
+<img src="https://img.shields.io/badge/Git-D1BB7C?style=for-the-badge&logo=git&logoColor=0E1712&labelColor=13211B"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:182922,100:0E1712&height=2&width=100%25" width="100%"/>
 
 ### 🚀 Proyectos destacados
 
-<div align="center">
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎨 [Portafolio-RN-React](https://github.com/jrealiquez-2021549/Portafolio-RN-React)**
+**🐾 [Kinal Pets](https://github.com/jrealiquez-2021549/Kinal-Pets)**
 <br/>
-Portafolio personal en React + Vite con sistema de partículas animadas, reproductor de música estilo tornamesa y carrusel de stack tecnológico.
-<br/>
-`React` `Vite` `GSAP`
+Aplicación de escritorio para la gestión integral de clínicas veterinarias: pacientes, personal, inventario y facturación. Arquitectura MVC con JavaFX y MySQL vía JDBC.
+<br/><br/>
+`Java` `JavaFX` `MySQL` `MVC`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-**♻️ [EcoKinal](https://github.com/aalvarez-2024004/AppMovil-EcoKinal.git)**
+**🍽️ [Kinal Gourmet House](https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante)** · [demo](https://kinal-gourmet-web.vercel.app/)
 <br/>
-App móvil de reciclaje con detección de imágenes (Google Vision + Gemini), mapas y gamificación. Proyecto grupal con despliegue completo en Render/Vercel.
-<br/>
-`React` `Vite` `GSAP`
+Plataforma web y móvil para restaurantes: menú, pedidos, inventario y usuarios. Microservicios con Node/Express, PostgreSQL y MongoDB.
+<br/><br/>
+`React` `React Native` `Express` `PostgreSQL` `MongoDB`
 
 </td>
-
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🏥 [Aditus](https://github.com/jrealiquez-2021549/Aditus.git)**
+**🏦 Kinal Bank** · [demo](https://app-movil-sistema-bancario-hfca.vercel.app/)
 <br/>
-Microservicios en Spring Boot para gestión hospitalaria, con sincronización FHIR entre servicios de hospital y EHR.
-<br/>
-`Java` `Spring Boot` `FHIR`
+Banca digital web y móvil: cuentas, transferencias y consultas financieras, con autenticación JWT y control de roles. Proyecto en equipo.
+<br/><br/>
+`React` `React Native` `Node.js` `JWT`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🍽️ [Kinal Gourmet House](https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante.git)**
+**♻️ Eco Kinal** · [demo](https://app-movil-eco-kinal.vercel.app/)
 <br/>
-Sistema de gestión de restaurante: web (Node/Express + Mongo/PostgreSQL) y su adaptación móvil en Expo/React Native.
-<br/>
-`Express` `React Native` `Zustand`
+Plataforma de reciclaje y educación ambiental con IA (Gemini + Google Vision), gamificación, foros y mapa interactivo de centros de reciclaje. Proyecto en equipo.
+<br/><br/>
+`Node.js` `Gemini AI` `Google Vision` `MongoDB`
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:182922,100:0E1712&height=2&width=100%25" width="100%"/>
 
 ### 📊 Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2021549&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&hide_border=true&bg_color=0E1712&title_color=D1BB7C&text_color=F5F1E6&icon_color=D1BB7C&border_color=182922" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2021549&layout=compact&hide_border=true&bg_color=0E1712&title_color=D1BB7C&text_color=F5F1E6&border_color=182922" width="35%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jrealiquez-2021549&theme=tokyonight&hide_border=true" width="60%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Contáctame
-
-<!-- Reemplaza los links de abajo con tus redes reales -->
-<a href="mailto:realiqueznoriega80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jrealiquez-2021549&hide_border=true&background=0E1712&ring=D1BB7C&fire=D1BB7C&currStreakLabel=D1BB7C&sideLabels=F5F1E6&currStreakNum=F5F1E6&sideNums=F5F1E6&dates=F5F1E6&stroke=182922" width="60%"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<!-- Reemplaza los links de abajo con tus redes reales -->
+<a href="mailto:realiqueznoriega80@gmail.com"><img src="https://img.shields.io/badge/Email-D1BB7C?style=for-the-badge&logo=gmail&logoColor=0E1712&labelColor=13211B"/></a>
+<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-D1BB7C?style=for-the-badge&logo=linkedin&logoColor=0E1712&labelColor=13211B"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182922,100:0E1712&height=100&section=footer" width="100%"/>
 
 </div>
