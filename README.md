@@ -75,7 +75,7 @@ Portafolio personal en React + Vite con sistema de partículas animadas, reprodu
 </td>
 <td width="50%">
 
-**♻️ EcoKinal — AppMovil-EcoKinal**
+**♻️ [EcoKinal](https://github.com/aalvarez-2024004/AppMovil-EcoKinal.git)**
 <br/>
 App móvil de reciclaje con detección de imágenes (Google Vision + Gemini), mapas y gamificación. Proyecto grupal con despliegue completo en Render/Vercel.
 <br/>
@@ -86,7 +86,7 @@ App móvil de reciclaje con detección de imágenes (Google Vision + Gemini), ma
 <tr>
 <td width="50%">
 
-**🏥 Cosmed System**
+**🏥 [Aditus](https://github.com/jrealiquez-2021549/Aditus.git)**
 <br/>
 Microservicios en Spring Boot para gestión hospitalaria, con sincronización FHIR entre servicios de hospital y EHR.
 <br/>
@@ -95,7 +95,7 @@ Microservicios en Spring Boot para gestión hospitalaria, con sincronización FH
 </td>
 <td width="50%">
 
-**🍽️ Kinal Gourmet House / Movil**
+**🍽️ [Kinal Gourmet House](https://github.com/jrealiquez-2021549/AppMovil-SistemaRestaurante.git)**
 <br/>
 Sistema de gestión de restaurante: web (Node/Express + Mongo/PostgreSQL) y su adaptación móvil en Expo/React Native.
 <br/>
@@ -113,7 +113,7 @@ Sistema de gestión de restaurante: web (Node/Express + Mongo/PostgreSQL) y su a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jrealiquez-2021549&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrealiquez-2021549&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
 <br/>
@@ -130,7 +130,7 @@ Sistema de gestión de restaurante: web (Node/Express + Mongo/PostgreSQL) y su a
 
 <!-- Reemplaza los links de abajo con tus redes reales -->
 <a href="mailto:realiqueznoriega80@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/jrealiquez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
