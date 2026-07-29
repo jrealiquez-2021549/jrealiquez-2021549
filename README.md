@@ -87,7 +87,7 @@ const julio = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://kinal-gourmet-web.vercel.app/">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kgh-01.jpg" alt="Kinal Gourmet House" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kgh-00.jpg" alt="Kinal Gourmet House" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Web%20%2B%20Móvil-FF6B00?style=flat-square" alt="Web + Móvil" />
@@ -105,7 +105,7 @@ const julio = {
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/jrealiquez-2021549/Kinal-Pets">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kp-01.jpg" alt="Kinal Pets" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kp-00.jpg" alt="Kinal Pets" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Desktop-007396?style=flat-square" alt="Desktop" />
@@ -124,7 +124,7 @@ const julio = {
   <tr>
     <td width="50%" valign="top">
       <a href="https://app-movil-sistema-bancario-hfca.vercel.app/">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kb-01.jpg" alt="Kinal Bank" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/kb-00.jpg" alt="Kinal Bank" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Fintech-0D1117?style=flat-square" alt="Fintech" />
@@ -142,7 +142,7 @@ const julio = {
     </td>
     <td width="50%" valign="top">
       <a href="https://app-movil-eco-kinal.vercel.app/">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ek-01.jpg" alt="Eco Kinal" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ek-00.jpg" alt="Eco Kinal" width="100%" />
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Impacto-2EA043?style=flat-square" alt="Impacto" />
@@ -169,7 +169,7 @@ const julio = {
   <tr>
     <td width="33%" valign="top">
       <a href="https://ahorcado-pokemon-jgrn.vercel.app/">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/pr-01.jpg" alt="PokéReto" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/pr-00.jpg" alt="PokéReto" width="100%" />
       </a>
       <h3>⚡ PokéReto</h3>
       Ahorcado Pokémon · Full Stack
@@ -179,7 +179,7 @@ const julio = {
     </td>
     <td width="33%" valign="top">
       <a href="https://web-page-mu-orcin.vercel.app/">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/wp-01.jpg" alt="Web Page" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/wp-00.jpg" alt="Web Page" width="100%" />
       </a>
       <h3>🎮 Web Page</h3>
       Landing interactiva de videojuegos
@@ -189,7 +189,7 @@ const julio = {
     </td>
     <td width="33%" valign="top">
       <a href="https://rompecabezas-sable.vercel.app/">
-        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ag-01.jpg" alt="Autumn Grid" width="100%" />
+        <img src="https://raw.githubusercontent.com/jrealiquez-2021549/Portafolio-RN-React/main/public/assets/images/ag-00.jpg" alt="Autumn Grid" width="100%" />
       </a>
       <h3>🧩 Autumn Grid</h3>
       Rompecabezas web interactivo
